@@ -1,0 +1,11 @@
+[
+  {
+    "source#1": "Xin chào",
+    "target#1": "Hello"
+  },
+
+  {
+    "source#2": "Tạm biệt",
+    "target#2": "Bye"
+  }
+]
